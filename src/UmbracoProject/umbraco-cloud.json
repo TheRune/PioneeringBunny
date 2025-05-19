@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "runes pioneering bunny",
+      "Alias": "runes-pioneering-bunny",
+      "Id": "54c06c28-6857-4682-90dd-cb4e92951ae4",
+      "TrialExpireDate": "2025-06-02T11:33:03.0000000",
+      "Workspaces": [
+        {
+          "Id": "a1362d48-26fc-49a4-97ee-00fddc0287bd",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://runes-pioneering-bunny.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
